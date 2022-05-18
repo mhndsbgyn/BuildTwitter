@@ -2,10 +2,10 @@
 🔵 Build Twitter 2.0 with REACT.JS! (Next.js, Sanity CMS, Typescript, SSR, Tailwind &amp; NextAuth)
 
 🕐 STEPS:
-1. Setting up Next.js & Tailwind CSS
-2. Initialising the Build
-3. Building the Sidebar Component
-4. Building the SidebarRow Component
+1. Setting up Next.js & Tailwind CSS ✅
+2. Initialising the Build ✅
+3. Building the Sidebar Component ✅
+4. Building the SidebarRow Component ✅
 5. Building the Feed Component (1/2)
 6. Building the Widgets Component
 7. Implementing Responsive Design
